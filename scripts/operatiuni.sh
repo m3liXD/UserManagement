@@ -80,10 +80,10 @@ export -f cd
 
 echo ""
 echo -e "\e[1;37m  ╔═══════════════════════════════════════════════════╗\e[0m"
-echo -e "\e[1;37m  ║  \e[1;33mTerminal utilizator: $user               ║\e[1;37m"
-echo -e "\e[1;37m  ║  \e[2;37mDirector: $allowed_dir                   ║\e[0m"
-echo -e "\e[1;37m  ║  \e[2;37mNu poți naviga în afara acestui director.║\e[0m"
-echo -e "\e[1;37m  ║  \e[2;37mScrie 'exit' pentru a reveni la meniu.   ║\e[0m"
+echo -e "\e[1;37m  ║  \e[1;33mTerminal utilizator: $user                \e[1;37m"
+echo -e "\e[1;37m  ║  \e[2;37mDirector: $allowed_dir                    \e[0m"
+echo -e "\e[1;37m  ║  \e[2;37mNu poți naviga în afara acestui director. \e[0m"
+echo -e "\e[1;37m  ║  \e[2;37mScrie 'exit' pentru a reveni la meniu.    \e[0m"
 echo -e "\e[1;37m  ╚═══════════════════════════════════════════════════╝\e[0m"
 echo ""
 RCEOF
